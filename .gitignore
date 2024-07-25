@@ -1,0 +1,30 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Log files
+*.log
+
+# Configuration files
+*.env
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Go workspace and dependency files
+/vendor/
+go.sum
+
+# Binary files
+bin/
